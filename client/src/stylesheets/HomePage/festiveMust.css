@@ -1,0 +1,40 @@
+.festive_must>div{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    padding: 0px 16px;
+    margin: auto;
+    max-width: 1280px;
+}
+
+.festive_must>div>div{
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    text-align: center;
+}
+
+.festive_must>div img{
+    width: 100%;
+    position: relative;
+    z-index: -1;
+}
+
+@media all and (min-width: 600px) and (max-width: 800px) {
+    .festive_must>div{
+        grid-template-columns: repeat(3,1fr);
+        gap: 20px 0px;
+    }
+}
+
+
+@media all and (min-width: 0px) and (max-width: 600px){
+    .festive_must>div{
+        grid-template-columns: repeat(2,1fr);
+        gap: 0px;
+    }
+
+    .festive_must h3{
+        font-size: 17px;
+    }
+}
