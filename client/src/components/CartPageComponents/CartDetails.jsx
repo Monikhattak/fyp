@@ -84,7 +84,7 @@ const CartDetails = () => {
 
         <div>
           <h3>Total</h3>
-          <h3>₹{Math.floor(0.9 * total - offerDiscount)}</h3>
+          <h3>PKR:{Math.floor(0.9 * total - offerDiscount)}</h3>
         </div>
         <button onClick={handle_checkout}>Checkout</button>
         <p

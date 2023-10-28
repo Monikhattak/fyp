@@ -76,7 +76,7 @@ const WishlistCard = ({ ele, setWishlist }) => {
         <div style={{ marginTop: "-6px" }}>
           <b>{ele.name}</b>
           <br />
-          <b style={{ marginTop: "14px" }}>₹ {ele.price}</b>
+          <b style={{ marginTop: "14px" }}>PKR {ele.price}</b>
           <flex
             style={{
               marginTop: "26px",
