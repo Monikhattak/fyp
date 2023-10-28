@@ -1,7 +1,7 @@
-<h1 align="center">MAX Fashion Clone</h1>
+<h1 align="center">E Commerce</h1>
 
 
-<h3 align="center">It's a clone of famous E-commerce website MAX Fashion using MERN Stack with all the major functionalities.</h3>
+<h3 align="center">It's a clone of famous E-commerce website E-commerce using MERN Stack with all the major functionalities.</h3>
 
 <br />
 
@@ -53,9 +53,8 @@
   <a href="#Contact">Author</a> &#10023;
 </p> -->
 
-MAX Fashion Clone is MERN Stack e-commerce web application that allows you to buy clothes & accessories, online with payment gateway integration. It has a variety of categories, just visit the product listing page and you will see all the products, apply filters as per your need and in just a few clicks you can buy any products from the website. This project is just for educational purpose.
+E-commerce is MERN Stack e-commerce web application that allows you to buy clothes & accessories, online with payment gateway integration. It has a variety of categories, just visit the product listing page and you will see all the products, apply filters as per your need and in just a few clicks you can buy any products from the website. This project is just for educational purpose.
 
-![cover](https://user-images.githubusercontent.com/101581191/200629844-e92cac8a-9421-4661-94c4-90d8debe10a7.png)
 
 <br />
 
@@ -91,7 +90,7 @@ MAX Fashion Clone is MERN Stack e-commerce web application that allows you to bu
 
 <br />
 
-## Glimpses of Max-Fashion-Clone 🙈 :
+## Glimpses of E commerce 🙈 :
 
 <table>
   <tr>
@@ -128,14 +127,6 @@ MAX10 (for 10% Off)
 
 [Click here to use the razorpay testing payment methods](https://razorpay.com/docs/payments/payments/test-card-upi-details/)
 
-<br /> -->
-
-<h2>Demo</h2>
-
-[Click here to see the presentation video of this project](https://www.linkedin.com/posts/jyoti-kamal-singh_project-activity-7010879003037175808-74-8?utm_source=share&utm_medium=member_desktop)
-
-
-<br />
 
 ## Getting Started
 
@@ -218,14 +209,6 @@ To run this project, you will need to add the following environment variables to
 
 <br />
 
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/Jyoti_Kamal_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyoti-kamal-singh/)
-[![GitHub](https://img.shields.io/badge/Jyoti_Kamal_Singh-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/jksingh1504)
-
-© 2022 Jyoti Kamal Singh
 
 ## Show your support
 
