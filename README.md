@@ -1,11 +1,9 @@
 <h1 align="center">E Commerce</h1>
 
 
-<h3 align="center">It's a clone of famous E-commerce website E-commerce using MERN Stack with all the major functionalities.</h3>
+<h3 align="center">It's a famous E-commerce website E-commerce using MERN Stack with all the major functionalities.</h3>
 
 <br />
-
-<h2 align="center">🖥️ Tech Stack</h2>
 
 <h4 align="center">Frontend:</h4>
 
@@ -39,10 +37,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="vercel" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
 </p>
 
-<h3 align="center"><a href="https://max-fashion-jk.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 
 <!-- <p align="center">
   <br />&#10023;
