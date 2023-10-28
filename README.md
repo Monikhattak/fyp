@@ -90,7 +90,7 @@ E-commerce is MERN Stack e-commerce web application that allows you to buy cloth
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/101581191/200632509-eb86ac1c-b128-4c46-8a7b-7c3f43de2f74.png" alt="home" /></td>
+    <td><img src="C:\Users\Moni  khattak\Desktop\fyp1.PNG" alt="home" /></td>
     <td><img src="https://user-images.githubusercontent.com/101581191/200632544-e99f91bc-6be3-4806-a758-291fb5478470.png" alt="coupons" /></td>
   </tr>
   <tr>
@@ -102,7 +102,7 @@ E-commerce is MERN Stack e-commerce web application that allows you to buy cloth
     <td><img src="https://user-images.githubusercontent.com/101581191/200632633-511322b9-2aa5-4e15-904f-7999443f8643.png" alt="men" /></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/101581191/201032021-66863dc4-d988-4c95-a06c-6d4d32065fd0.png" alt="women" /></td>
+    <td><img src="" alt="women" /></td>
     <td><img src="https://user-images.githubusercontent.com/101581191/201032049-e0c256cc-7d47-41f4-a017-ffa64cee85d5.png" alt="kids" /></td>
   </tr> 
   
